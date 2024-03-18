@@ -1,0 +1,103 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Faire les courses",
+            "state": 1,
+            "createdAt": "2024-03-18T08:00:00Z",
+            "priority": 2,
+            "description": "Acheter des fruits, du lait et du pain au supermarché du quartier. Ne pas oublier de vérifier la date de péremption des produits."
+        },
+        {
+            "id": 2,
+            "name": "Préparer la présentation",
+            "state": 2,
+            "createdAt": "2024-03-17T14:30:00Z",
+            "dueDate": "2024-03-25",
+            "priority": 1,
+            "description": "Terminer les diapositives pour la réunion de lundi prochain. Inclure des graphiques et des exemples concrets pour illustrer les points clés."
+        },
+        {
+            "id": 3,
+            "name": "Faire du sport",
+            "state": 1,
+            "createdAt": "2024-03-16T18:00:00Z",
+            "priority": 3,
+            "description": "Faire 30 minutes de course à pied dans le parc près de la maison. Profiter du beau temps pour s'aérer et se détendre."
+        },
+        {
+            "id": 4,
+            "name": "Appeler le service client",
+            "state": 1,
+            "createdAt": "2024-03-19T10:45:00Z",
+            "dueDate": "2024-03-20",
+            "priority": 2,
+            "description": "Résoudre un problème de facturation avec le service client de l'opérateur téléphonique. Préparer les informations de compte et les détails de la facture."
+        },
+        {
+            "id": 5,
+            "name": "Répondre aux e-mails",
+            "state": 2,
+            "createdAt": "2024-03-18T16:20:00Z",
+            "priority": 2,
+            "description": "Répondre aux e-mails en attente dans la boîte de réception professionnelle. Classer les e-mails par importance et traiter les demandes urgentes en premier."
+        },
+        {
+            "id": 6,
+            "name": "Nettoyer la maison",
+            "state": 1,
+            "createdAt": "2024-03-17T09:00:00Z",
+            "dueDate": "2024-03-19",
+            "priority": 1,
+            "description": "Passer l'aspirateur dans toutes les pièces, faire la poussière sur les meubles et nettoyer la cuisine et la salle de bain en profondeur. Ranger les objets et désencombrer les surfaces."
+        },
+        {
+            "id": 7,
+            "name": "Préparer le dîner",
+            "state": 2,
+            "createdAt": "2024-03-18T17:30:00Z",
+            "priority": 3,
+            "description": "Choisir une recette saine et équilibrée pour le dîner. Faire la liste des ingrédients nécessaires et commencer la préparation en avance pour ne pas être pressé."
+        },
+        {
+            "id": 8,
+            "name": "Faire une pause",
+            "state": 1,
+            "createdAt": "2024-03-19T13:00:00Z",
+            "priority": 3,
+            "description": "Prendre une courte pause de 15 minutes pour se détendre et recharger ses batteries. Faire une promenade à l'extérieur ou méditer pour se relaxer."
+        },
+        {
+            "id": 9,
+            "name": "Lire un livre",
+            "state": 1,
+            "createdAt": "2024-03-17T20:00:00Z",
+            "priority": 2,
+            "description": "Lire le nouveau livre acheté la semaine dernière sur le développement personnel. Allouer du temps avant le coucher pour se plonger dans la lecture et apprendre de nouvelles choses."
+        },
+        {
+            "id": 10,
+            "name": "Faire de l'exercice",
+            "state": 2,
+            "createdAt": "2024-03-18T07:00:00Z",
+            "dueDate": "2024-03-19",
+            "priority": 1,
+            "description": "Faire une séance d'entraînement de 45 minutes à la salle de sport locale. Inclure des exercices de cardio et de musculation pour maintenir une bonne condition physique."
+        },
+        {
+            "id": 11,
+            "name": "Acheter un cadeau d'anniversaire",
+            "state": 1,
+            "createdAt": "2024-03-20T09:00:00Z",
+            "description": "Trouver un cadeau spécial pour l'anniversaire de maman. Explorer les boutiques locales pour des idées uniques."
+        },
+        {
+            "id": 12,
+            "name": "Préparer le rapport mensuel",
+            "state": 2,
+            "createdAt": "2024-03-19T15:00:00Z",
+            "dueDate": "2024-03-31",
+            "description": "Compiler les données et rédiger le rapport mensuel pour la réunion de fin de mois. Inclure les statistiques clés et les analyses pertinentes."
+        }
+    ]
+}
